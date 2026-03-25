@@ -2,6 +2,8 @@ import { Link } from 'expo-router';
 import { Alert, Pressable, StyleSheet, Text, View } from 'react-native';
 import CustomPressable from '../../components/Pressable';
 
+// Main()
+
 export default function Index() {
   return (
     <View style={styles.container}>
